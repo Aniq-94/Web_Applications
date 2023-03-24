@@ -1,0 +1,5 @@
+
+.gitignore.txt
+
+__psycache__/
+**/__psycache__/
